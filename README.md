@@ -7,6 +7,7 @@
 
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
+* [Assumptions](#Assumptions)
 * [Dataset Description](#Dataset-Description)
 
     - [Actual data](#Actual-data)
